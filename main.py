@@ -1,4 +1,4 @@
-#CCI Fair July 2022 - Riyaan R
+#CCI Fair July 2022 - Riyaan R.
 #Shoot Up Project
 import pygame
 from pygame.locals import *
